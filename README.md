@@ -1,4 +1,4 @@
-# Automated Scene Graph Generation for Semantic Image Understanding
+# Scene Graph Generation for Semantic Image Understanding
 
 A deep learning pipeline for generating scene graphs from images, enabling semantic understanding of visual relationships between objects.
 
